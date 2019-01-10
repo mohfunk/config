@@ -1,0 +1,13 @@
+cnoreabbrev q1 q!
+cnoreabbrev ; :
+cnoreabbrev W! w!
+cnoreabbrev Q! q!
+cnoreabbrev Qall! qall!
+cnoreabbrev Wq wq
+cnoreabbrev Wa wa
+cnoreabbrev wQ wq
+cnoreabbrev WQ wq
+cnoreabbrev Q q
+cnoreabbrev Qall qall
+iabbrev comp component
+iabbrev @@ moh@abstractum.io

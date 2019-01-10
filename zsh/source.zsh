@@ -1,0 +1,11 @@
+source ~/ws/.conf/dot/zsh/var.zsh
+source ~/ws/.conf/dot/zsh/plugins.zsh
+source ~/ws/.conf/dot/zsh/setup.zsh
+source ~/ws/.conf/dot/zsh/git.zsh
+source ~/ws/.conf/dot/zsh/fzf.zsh
+source ~/ws/.conf/dot/zsh/css.zsh
+source ~/ws/.conf/dot/zsh/pin.zsh
+source ~/ws/.conf/dot/zsh/util.zsh
+source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/ws/.conf/dot/zsh/ali.zsh
+source ~/ws/.conf/dot/zsh/done.zsh
